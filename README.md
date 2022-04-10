@@ -1,9 +1,11 @@
 
-<h6 align='center'>
+<h1 align='center'>
 <a href="https://vue-gobang.netlify.app/">Vue Gobang</a>
-</h6>
+</h1>
 
-<h5 align='center'>
-<b>Initial with template <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
-</h5>
+<p align='center'>
+<img src="./public/vue-gobang.png" alt="vue gobang">
+</p>
+
+> Initial with template [Vitesse](https://github.com/antfu/vitesse)
 
